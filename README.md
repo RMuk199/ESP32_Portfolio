@@ -40,6 +40,12 @@ The setting up of this repository.
 
 [IoT Essay](IoT_Transforming_the_Way_We_Live_and_Work.pdf)
 
+## Refrences
 
+-[Course Guide](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EYFme3O0UvhGjYmxXSuQPxYB7mwCwkD_q7WfD8JGlIj4sg?e=FgPANr)
+-[IoT in Healthcare](https://www.forbes.com/sites/forbestechcouncil/2022/04/01/the-internet-of-medical-things-its-role-in-healthcare-and-how-to-implement-it/?sh=38af8dc753f9)
+-[How IoT is changing the world - Analytics insight](https://www.analyticsinsight.net/how-is-the-iot-changing-the-world-around/#:~:text=How%20is%20the%20IoT%20Changing%20the%20World%20Around,...%205%20Industry%204.0%20and%20Smart%20Cities%20)
+-[The Internet of Things is Changing the World](https://www.wsj.com/articles/the-internet-of-things-is-changing-the-world-01578689806)
+-[How to Code in Markdown Language](https://wilsonmar.github.io/markdown-text-for-github-from-html/)
 
 
